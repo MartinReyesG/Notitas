@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PNotasApp</string>
+    <string name="notes">Mis notas</string>
+    <string name="notes_title">Titulo</string>
+    <string name="notes_sub_title">Sub titulo</string>
+    <string name="notes_desc">Ingresa tu nota aqui</string>
+    <string name="web_url"></string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="storage_permission_text">Esta aplicacion necesita permiso</string>
+    <string name="search">Buscar Nota</string>
+    <string name="searc">Buscar Tarea</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
